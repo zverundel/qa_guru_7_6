@@ -52,7 +52,7 @@ def test_find_suitable_user():
     ]
 
     # TODO найдите пользователя с именем "Olga"
-    suitable_users = None
+
 
     for user in users:
         if user["name"] == "Olga":
